@@ -2,7 +2,7 @@
 
 This is a native Android application built using **Kotlin** and **Jetpack Compose** as a submission for the Cactro Mobile Developer Hiring Test. 
 
-The app allows users to capture photos, annotate them with freehand drawing and stickers, add captions, and share the result directly to Instagram Stories.
+The app allows users to capture photos, annotate them with freehand drawing and stickers, add captions and share the result directly to Instagram Stories.
 
 ## Features
 
